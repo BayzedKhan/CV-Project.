@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.container{
+
+background-color: bisque;
+
+}
+
+
+.container img{
+    display: block;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+border: 5px solid purple;
+}
+.container h1 {
+
+   text-align: center; 
+
+}
+.contact{
+font-size: 25px;
+text-align: center;
+
+}
+
+.bio-data{
+font-size: x-large;
+font-weight:400;
+
+line-height: normal;
+
+}
+
+.table{
+border: 2px solid green;
+text-align: center;
+font-weight: 500;
+border-collapse: collapse;
+
+}
+
+.table thead tr th {
+    border:2px solid green;
+    background-color: tomato;
+    font-weight: bold;
+}
+
+.table tbody td {
+    border:2px solid green;
+
+
+}
+
+.data {
+text-align: center;
+
+}
